@@ -836,7 +836,7 @@ figure {
 .fh5co-blog .blog-bg {
   display: block;
   width: 100%;
-  background-size: cover;
+  background-size: 110% 100%;
   background-position: center center;
   background-repeat: no-repeat;
   position: relative;
